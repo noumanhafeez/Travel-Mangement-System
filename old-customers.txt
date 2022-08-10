@@ -1,0 +1,35 @@
+
+Customer ID: 1234
+Name: nouman
+Age: 21
+Mobile Number: 32142421
+Address: house190
+Gender: male
+
+Customer ID: 4567
+Name: usama
+Age: 21
+Mobile Number: 30424521
+Address: house120
+Gender: male
+
+Customer ID: 8910
+Name: xufiyan
+Age: 21
+Mobile Number: 30934561
+Address: house
+Gender: 122
+
+Customer ID: 2321
+Name: xufiyan
+Age: 21
+Mobile Number: 2147483647
+Address: 
+Gender: 
+
+Customer ID: 22314
+Name: xufiyan
+Age: 21
+Mobile Number: 309421
+Address: house122
+Gender: male
